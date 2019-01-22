@@ -8,4 +8,4 @@ Built using: Python, Tableau
 
 Team members: Kendra Gedney, April Chung, Yipin Lu, Ratnadeep Mitra
 
-Data available on request
+Data available on request.
