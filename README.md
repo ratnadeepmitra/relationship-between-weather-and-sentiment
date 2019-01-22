@@ -7,3 +7,5 @@ This project investigated the connection between weather and people's sentiment.
 Built using: Python, Tableau 
 
 Team members: Kendra Gedney, April Chung, Yipin Lu, Ratnadeep Mitra
+
+Data available on request
