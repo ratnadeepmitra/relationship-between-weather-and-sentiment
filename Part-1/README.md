@@ -14,6 +14,5 @@ Descriptions for the following list of files:
 12. Restaurant_Reviews_RawData.csv - raw data of all yelp restaurant reviews
 13. USA_Counties_CleanData.csv - clean US county data from census bureau
 14. USA_Counties_RawData.csv - raw US county data from census bureau
-15. Project1_Writeup.docx - project writeup
 
 NOTE: If you run the code to extract data, start with Get_Clean_Counties_Data.py and then run Get_Restaurant_Weather_Data.py
