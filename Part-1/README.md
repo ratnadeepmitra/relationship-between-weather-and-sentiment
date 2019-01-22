@@ -16,3 +16,5 @@ Descriptions for the following list of files:
 14. USA_Counties_RawData.csv - raw US county data from census bureau
 
 NOTE: If you run the code to extract data, start with Get_Clean_Counties_Data.py and then run Get_Restaurant_Weather_Data.py
+
+Data available on request.
